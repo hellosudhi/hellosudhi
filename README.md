@@ -1,5 +1,15 @@
 # 💫 About Me:
-I am a Diploma holder in Computer Science. Having returned from my year of travelling. I pursued my first job to kick off my career. I was hired as a Tech and Broadcasting Ops by Amagi. before beginning my career there, I completed CCNA Routing and Switching. While I was working there I used to code in python and java. Because these languages are used to automate everything and I chose Java last year with a knack for development and passion for coding, I thought to move to the next level in programming. I left the job at my previous company and I joined Astra as a full-stack developer. In this company, meanwhile, I learned Spring boot, Kotlin, Spring-Boot FXML application and microframework
+Upon completing my Diploma in Computer Science, I took a year off to travel and explore. After my return, I was eager to kick-start my career.
+
+Since 2021, I have been employed as an Associate Software Engineer at Neoito Technology Center, specializing in full-stack development. My focus lies in utilizing Front-end technologies like React JS and Tailwind CSS, as well as Back-end technologies such as Node.js, Express, Postgres, and implementing Micro frontends using Webpack 5 module federation.
+
+Previously, I worked as a Full Stack Developer at SeekMy Technology Pvt Ltd from 2020 to 2021. During this period, I gained valuable experience in Front-end development using React JS, and Back-end development utilizing Node.js, Spring Boot, Express, MongoDB, and MySQL. I also had the opportunity to work with GKE cloud environments for application deployment, and I utilized tools like Eureka, NGINX, CI/CD, and ISTIO.
+
+From 2018 to 2020, I held the position of a Software Development Engineer at Astra Software Solutions. In this role, I developed Java applications using Swing, FXML, and Spring Boot. Additionally, I provided technical guidance to support teams and architects, and I was responsible for domain maintenance, website management, server administration, and troubleshooting.
+
+In my earlier experience at Amagi Media Lab Pvt Ltd from 2017 to 2018, I worked in Tech & Broadcasting Operations. My primary responsibilities involved ensuring the seamless operation of on-air streams, including tasks like verifying playlists and playouts, resolving on-air issues, and managing live events. This experience also allowed me to gain valuable exposure to cloud technologies, cloud devices, and troubleshooting.
+
+These diverse experiences have equipped me with a comprehensive skill set and a deep understanding of various technologies. I am always enthusiastic about embracing new challenges and continuing my professional growth.
 
 
 ## 🌐 Socials:
